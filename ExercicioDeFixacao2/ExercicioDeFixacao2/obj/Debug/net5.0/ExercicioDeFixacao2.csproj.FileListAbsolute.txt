@@ -1,0 +1,16 @@
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net5.0\ExercicioDeFixacao2.exe
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net5.0\ExercicioDeFixacao2.deps.json
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net5.0\ExercicioDeFixacao2.runtimeconfig.json
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net5.0\ExercicioDeFixacao2.runtimeconfig.dev.json
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net5.0\ExercicioDeFixacao2.dll
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net5.0\ExercicioDeFixacao2.pdb
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.csproj.AssemblyReference.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.AssemblyInfoInputs.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.AssemblyInfo.cs
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.dll
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\refint\ExercicioDeFixacao2.dll
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.pdb
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ExercicioDeFixacao2.genruntimeconfig.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net5.0\ref\ExercicioDeFixacao2.dll

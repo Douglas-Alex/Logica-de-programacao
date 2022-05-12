@@ -1,0 +1,16 @@
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net5.0\ExercicioDeFixacao.exe
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net5.0\ExercicioDeFixacao.deps.json
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net5.0\ExercicioDeFixacao.runtimeconfig.json
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net5.0\ExercicioDeFixacao.runtimeconfig.dev.json
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net5.0\ExercicioDeFixacao.dll
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net5.0\ExercicioDeFixacao.pdb
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.AssemblyInfo.cs
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.dll
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\refint\ExercicioDeFixacao.dll
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.pdb
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ExercicioDeFixacao.genruntimeconfig.cache
+C:\Curso Udemy\Lógica de programação C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net5.0\ref\ExercicioDeFixacao.dll
