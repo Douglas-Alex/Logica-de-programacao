@@ -25,12 +25,6 @@ namespace ExercicioDeFixacao2
 
             Console.WriteLine("Area = " + area.ToString("F2", CultureInfo.InvariantCulture) + "m");
             Console.WriteLine("Valor avaliado do terreno = R$ " + preco.ToString("F2"));
-
-
-
-
-
-
         }
     }
 }
