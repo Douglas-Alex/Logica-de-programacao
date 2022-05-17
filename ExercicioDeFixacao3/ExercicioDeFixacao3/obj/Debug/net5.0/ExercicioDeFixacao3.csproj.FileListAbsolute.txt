@@ -1,0 +1,16 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\bin\Debug\net5.0\ExercicioDeFixacao3.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\bin\Debug\net5.0\ExercicioDeFixacao3.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\bin\Debug\net5.0\ExercicioDeFixacao3.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\bin\Debug\net5.0\ExercicioDeFixacao3.runtimeconfig.dev.json
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\bin\Debug\net5.0\ExercicioDeFixacao3.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\bin\Debug\net5.0\ExercicioDeFixacao3.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\refint\ExercicioDeFixacao3.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ExercicioDeFixacao3.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\ExercicioDeFixacao3\ExercicioDeFixacao3\obj\Debug\net5.0\ref\ExercicioDeFixacao3.dll
