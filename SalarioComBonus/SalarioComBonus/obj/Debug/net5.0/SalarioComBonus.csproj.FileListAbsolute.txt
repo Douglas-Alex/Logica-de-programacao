@@ -1,0 +1,16 @@
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\bin\Debug\net5.0\SalarioComBonus.exe
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\bin\Debug\net5.0\SalarioComBonus.deps.json
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\bin\Debug\net5.0\SalarioComBonus.runtimeconfig.json
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\bin\Debug\net5.0\SalarioComBonus.runtimeconfig.dev.json
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\bin\Debug\net5.0\SalarioComBonus.dll
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\bin\Debug\net5.0\SalarioComBonus.pdb
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.csproj.AssemblyReference.cache
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.AssemblyInfoInputs.cache
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.AssemblyInfo.cs
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.dll
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\refint\SalarioComBonus.dll
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.pdb
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\SalarioComBonus.genruntimeconfig.cache
+C:\Curso Udemy\Lógica de programação C#\SalarioComBonus\SalarioComBonus\obj\Debug\net5.0\ref\SalarioComBonus.dll
